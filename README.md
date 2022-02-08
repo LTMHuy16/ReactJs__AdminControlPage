@@ -7,4 +7,4 @@
 
   ### Preview
 
-  ![Preview Screen short](https://github.com/github/{repository}/blob/assets/cat.png)
+  ![Preview Screen short](https://github.com/LTMHuy16/ReactJs__AdminControlPage/blob/main/src/assets/images/preview.png)
