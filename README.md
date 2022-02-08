@@ -3,7 +3,7 @@
 
   ### Description
 
-  > Simple Admin Page with React, no responsive with beautiful chart
+  > Simple Admin Page with React, no responsive and beautiful chart
 
   ### Preview
 
